@@ -12,7 +12,5 @@
 ## 4. Buat file about
 ![Screenshot (280)](https://github.com/Thoriq150/pt8_modular/assets/115950790/743cc3c6-eda0-443b-9550-fc1cb0c0931a)
 ![Screenshot (287)](https://github.com/Thoriq150/pt8_modular/assets/115950790/52d0c70b-fa07-4849-b96b-c4ebd5764652)
-## Rapihkan dengan file css
-![Screenshot (288)](https://github.com/Thoriq150/pt8_modular/assets/115950790/bb6829fe-0b99-45ad-bcfc-91829c5c929a)
-![Screenshot (289)](https://github.com/Thoriq150/pt8_modular/assets/115950790/cf247405-6ace-4257-a18a-77e5143a8442)
+
 ## `Implementasi konsep modularisasi pada kode program praktikum 8 tentang database dengan menggunakan template tampilan yang sama. Dengan cara ini, setiap halaman (home.php, about.php, dll.) menggunakan header dan footer yang sama, sehingga menerapkan konsep modularisasi`
